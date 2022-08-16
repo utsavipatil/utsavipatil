@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-#### About Me ?
+#### :tipping_hand_woman:&nbsp; About Me ?
 
 - 🏫 I recently graduated in Bachelors of Technology from Institute of Technology Nirma University, Ahmedabad.
 - ⚡️ Currently upgrading my skills in DSA , HTML , CSS , BootStrap , JavaScript.
@@ -79,4 +79,11 @@ Here are some ideas to get you started:
 <!--   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=utsavipatil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utsavipatil&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<hr>
+
+<p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
 </p>
