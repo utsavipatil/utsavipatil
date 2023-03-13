@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,8 +25,8 @@ Here are some ideas to get you started:
 
 #### :tipping_hand_woman:&nbsp; About Me ?
 
-- 🏫 I recently graduated in Bachelors of Technology from Institute of Technology Nirma University, Ahmedabad.
-- ⚡️ Currently upgrading my skills in DSA , HTML , CSS , BootStrap , JavaScript.
+- 🔭 I’m currently working as Associate Software Engineer as Lowe's India.
+- ⚡️ Currently upgrading my skills in DSA , React , Springboot , JavaScript , HTML, CSS , bootstrap , Node.js.
 <!-- - ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs)
 - 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
 - ♥️ I love to contribute to open-source products. -->
@@ -53,6 +52,7 @@ Here are some ideas to get you started:
 <img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp;&nbsp;
 <!-- <img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp; -->
 <!-- <img height=25 src="https://img.shields.io/badge/next.js-%23E0234E.svg?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;&nbsp;
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
-<!-- <img height=25 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp; -->
+<img height=25 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 
 #### **DevOps & Cloud Tools**:
 
