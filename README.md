@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 
 
 #### :tipping_hand_woman:&nbsp; About Me ?
-
-- 🔭 I’m currently working as Associate Software Engineer as Lowe's India.
-
-- ⚡️ Currently upgrading my skills in DSA , React , Springboot , JavaScript , HTML, CSS , bootstrap , Node.js.
-
 <!-- - ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs)
 
 - 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
