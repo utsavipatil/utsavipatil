@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://twitter.com/intent/follow?screen_name=anurag_gupta23"><img src="https://img.shields.io/badge/anurag_gupta23-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> -->
 <a href="https://www.linkedin.com/in/utsavi-patil-5920931a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:utsavirpatil2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1B-oSTcw6yFgknWw0jvivlfMGNVpnIDZ_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://drive.google.com/file/d/1z00yWoeRWX9dLtpXqCGYlYjfcUHE1VWC/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 <!-- <a href="https://anuraggupta.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://dev.to/anurag5086"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a> -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Anurag5086&style=flat-square) -->
@@ -26,10 +26,18 @@ Here are some ideas to get you started:
 #### :tipping_hand_woman:&nbsp; About Me ?
 
 - 🔭 I’m currently working as Associate Software Engineer as Lowe's India.
+
 - ⚡️ Currently upgrading my skills in DSA , React , Springboot , JavaScript , HTML, CSS , bootstrap , Node.js.
+
 <!-- - ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs)
+
 - 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
+
 - ♥️ I love to contribute to open-source products. -->
+- 🔭 Currently working as a Software Engineer as Lowe's India.
+- 🌟 Software Engineer specializing in transforming complex challenges into scalable, production-ready solutions.
+Currently at Lowe’s, where I design and develop robust REST APIs, full-stack tools, and data integrity systems using Java, Spring Boot, React.js, and Kafka.
+- 🏆 Recognized with Spot Awards for leading end-to-end development of mission-critical applications like the Enterprise Sales Auditor, which bridged legacy (DB2) and modern (Postgres) databases to ensure trusted financial data for IT Finance.
 
 
 ### 🔭 **Technology Stack**
@@ -39,6 +47,8 @@ Here are some ideas to get you started:
 
 <!-- <img height=25 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp; -->
 <!-- <img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp; -->
+
+[//]: # (<img height=25 src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;&nbsp;)
 <img height=25 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
@@ -60,18 +70,19 @@ Here are some ideas to get you started:
 
 #### **Databases**:
 
+<img height=25 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 
 #### **DevOps & Cloud Tools**:
 
 <img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
-<!-- img height=25 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white">&nbsp;&nbsp; -->
-<!-- <img height=25 src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">&nbsp;&nbsp; -->
+<img height=25 src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;&nbsp;
 
 ## 📈 Stats
 <p align="left">
